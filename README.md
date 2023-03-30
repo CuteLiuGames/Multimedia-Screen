@@ -1,4 +1,4 @@
-# 多媒體螢幕 Multimedia-Screen
+# 多媒體螢幕 Multimedia Screen
 
 支援.psd、.tiff、.jpg、.tga、.png、.gif、.bmp、.iff、.picts的圖片格式以及.asf、.avi、.dv、.m4v、.mov、.mp4、.mpg、.mpeg、.ogv、.vp8、.webm、.wmv的影片格式
 
