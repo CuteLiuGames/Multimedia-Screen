@@ -2,7 +2,7 @@
 
 支援.psd、.tiff、.jpg、.tga、.png、.gif、.bmp、.iff、.picts的圖片格式以及.asf、.avi、.dv、.m4v、.mov、.mp4、.mpg、.mpeg、.ogv、.vp8、.webm、.wmv的影片格式
 
-使用者可以變更圖片、影片、跑馬燈等內容以及天氣地區、圖片切換秒數的設定。
+使用者可以變更圖片、影片、跑馬燈等內容以及天氣地區、圖片切換秒數等設定。
 
 程式利用Unity創作，天氣由OpenWeatherMap提供。
 
