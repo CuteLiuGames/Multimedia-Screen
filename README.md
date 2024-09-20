@@ -7,3 +7,4 @@
 程式利用Unity創作，天氣由OpenWeatherMap提供。
 
 警告：請勿以此程式傳遞非法、不適宜、色情、詐騙、不雅字眼、具有政治利益的內容。
+Warning: Do not use this program for illegal purposes.
